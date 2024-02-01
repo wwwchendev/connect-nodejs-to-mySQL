@@ -1,0 +1,12 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Ignore the "dist" directory
+dist/
+
+# Ignore the "node_modules" directory
+node_modules/
+
+# Ignore a specific file
+.env
+
+
