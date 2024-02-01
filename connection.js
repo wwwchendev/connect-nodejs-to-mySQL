@@ -10,9 +10,6 @@ async function connectToMySQL() {
     password: process.env.DB_PASSWORD,
     database: process.env.DB_DATABASE
   });
-  console.log('連線成功');
-  // 關閉連線
-  connection.end();
+  return connection;
 }
-connectToMySQL();
-
+module.exports = connectToMySQL;
