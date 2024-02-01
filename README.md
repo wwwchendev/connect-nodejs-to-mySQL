@@ -1,0 +1,10 @@
+- 學習自：
+    - [MySQL 資料庫全攻略| 彭彭的課程](https://www.youtube.com/playlist?list=PL-g0fdC5RMbohmWmmZb-QtJpgHhfOLXOa) 
+- 筆記：
+    - [mySQL關聯式資料庫(1): 安裝mySQL+連線mySQL本地伺服器](https://wwwchen.dev/blogs/ru0FdAJqwWzSHmcWSPSL)
+    - [mySQL關聯式資料庫(2): table資料表CRUD](https://wwwchen.dev/blogs/DgfyNEeppzxYm7pdhFzO)
+    - [mySQL關聯式資料庫(3): 合併查詢JOIN (內合併, 左合併, 右合併)](https://wwwchen.dev/blogs/EpXyJ1fVOWPgK4ea3B3q)
+    - [mySQL關聯式資料庫(4): 外鍵 Foreign Key](https://wwwchen.dev/blogs/7pYcZzm1L6R5aspWLcK5)
+    - [mySQL關聯式資料庫(5): 索引 Index](https://wwwchen.dev/blogs/BFsDa4i3ZUz6MWIzSlmp)
+    - [mySQL關聯式資料庫(6): 聚合函式 + GROUP BY + ORDER BY + AS]()
+    - [mySQL關聯式資料庫: Node.js連線至mySQL](https://wwwchen.dev/blogs/wNCQWv8Vz40XDGTQ9iJr)
